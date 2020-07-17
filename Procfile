@@ -1,0 +1,1 @@
+web: gunicorn nlp_deploy:app_nlp
